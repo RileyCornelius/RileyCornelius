@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riley</h1>
+<h1 align="center">Hi, I'm Riley</h1>
 <h3 align="center">
 - Software Developer - <br>
 - Embedded Developer - <br>
